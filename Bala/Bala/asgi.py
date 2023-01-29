@@ -1,5 +1,5 @@
 """
-ASGI config for bakkiyalakshmi project.
+ASGI config for Bala project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'bakkiyalakshmi.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Bala.settings')
 
 application = get_asgi_application()

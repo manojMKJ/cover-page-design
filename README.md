@@ -6,9 +6,10 @@ To develop a website to display the cover page design of a book
 
 ### Step 1:
 Clone the Github repository and Create a Django admin interface.
-### Step 2:
 
+### Step 2:
 Write HTML and CSS herefor designing book cover page and execute them.
+
 ## Code:
 ```
 <!DOCTYPE html>
@@ -115,7 +116,7 @@ Write HTML and CSS herefor designing book cover page and execute them.
                 <hr style="color: indigo;">
             </div>
             <div class="author">
-               <p><b>Bakkiya Lakshmi</b></p>
+               <p><b>BALA</b></p>
             </div>
             <div class="pub">
                 SEC
