@@ -116,7 +116,7 @@ Write HTML and CSS herefor designing book cover page and execute them.
                 <hr style="color: indigo;">
             </div>
             <div class="author">
-               <p><b>BALA</b></p>
+               <p><b>MANOJ</b></p>
             </div>
             <div class="pub">
                 SEC
